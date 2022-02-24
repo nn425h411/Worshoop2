@@ -1,0 +1,193 @@
+User Input: Mars
+User Output: Mars
+User Input: Mars
+User Output: Mars
+User Input: Mars
+User Output: Mars
+User Input: NULL
+User Output: NULL
+User Input: q
+User Output: q
+User Input: sdf
+User Output: sdf
+User Input: d
+User Output: d
+User Input: Bob
+User Output: Bob
+User Input: [A[A:q
+User Output: [A[A:q
+User Input: Bob
+User Output: Bob
+User Input: @
+User Output: @
+User Input: #4
+User Output: #4
+User Input: #4
+User Output: #4
+User Input: A33
+User Output: A33
+Error: str is NULL (not a good return)User Input: $4
+User Output: $4
+Error: str is NULL (not a good return)User Input: #23
+User Output: #23
+Error: str is NULL (not a good return)User Input: Ads
+User Output: Ads
+Error: str is NULL (not a good return)User Input: @342
+User Output: @342
+Error: str was NULLincorrect input (non-alphabetical) or insuffcient memoryUser Input: 2323
+User Output: 2323
+Error: str was NULLincorrect input (non-alphabetical) or insuffcient memoryUser Input: [A[B
+User Output: [A[B
+Error: str was NULLincorrect input (non-alphabetical) or not enough memUser Input: as
+User Output: as
+Error: str was NULLincorrect input (non-alphabetical) or not enough memUser Input: asd
+User Output: asd
+Error: str was NULLincorrect input (non-alphabetical) or not enough memUser Input: as
+User Output: as
+Error: str was NULLincorrect input (non-alphabetical) or not enough memUser Input: a
+User Output: a
+Error: str was NULLincorrect input (non-alphabetical) or not enough memUser Input: Name
+User Output: Name
+Error: str was NULLincorrect input (non-alphabetical) or not enough memUser Input: Oe
+User Output: Oe
+Error: str was NULLincorrect input (non-alphabetical) or not enough memUser Input: Mars
+User Output: Mars
+Error: str was NULLincorrect input (non-alphabetical) or not enough memUser Input: Mars
+User Output: Mars
+Error: str was NULLincorrect input (non-alphabetical) or not enough memUser Input: ss
+User Output: ss
+Error: str was NULLincorrect input (non-alphabetical) or not enough memUser Input: Mars
+User Output: Mars
+User Input: d2
+User Output: d2
+User Input: 43
+User Output: 43
+User Input: s23
+User Output: s23
+Error: str was NULLincorrect input (non-alphabetical) or not enough memUser Input: mars
+User Output: mars
+Error: str was NULLincorrect input (non-alphabetical) or not enough memUser Input: Mars
+User Output: Mars
+Error: str was NULLincorrect input (non-alphabetical) or not enough memUser Input: 23
+User Output: 23
+Error: str was NULLincorrect input (non-alphabetical) or not enough memUser Input: ads
+User Output: ads
+Error: str was NULLincorrect input (non-alphabetical) or not enough memUser Input: ad
+User Output: ad
+User Input: NUll
+User Output: NUll
+User Input: 23
+User Output: 23
+User Input: a
+User Output: a
+User Input: 43
+User Output: 43
+User Input: ads
+User Output: ads
+Error: str was NULLincorrect input (non-alphabetical) or not enough memUser Input: ASd
+User Output: ASd
+Error: str was NULLincorrect input (non-alphabetical) or not enough memUser Input: 12
+User Output: 12
+Error: str was NULLincorrect input (non-alphabetical) or not enough memUser Input: asd
+User Output: asd
+Error: str was NULLincorrect input (non-alphabetical) or not enough memUser Input: 23
+User Output: 23
+Error: str was NULLincorrect input (non-alphabetical) or not enough memUser Input: [A[A
+User Output: [A[A
+Error: str was NULLincorrect input (non-alphabetical) or not enough memUser Input: asd
+User Output: asd
+Error: str was NULLincorrect input (non-alphabetical) or not enough memUser Input: man
+User Output: man
+Error: str was NULLincorrect input (non-alphabetical) or not enough memUser Input: 123
+User Output: 123
+Error: str was NULLincorrect input (non-alphabetical) or not enough memUser Input: as
+User Output: as
+Error: str was NULLincorrect input (non-alphabetical) or not enough memUser Input: Mars
+User Output: Mars
+Error: str was NULLincorrect input (non-alphabetical) or not enough memUser Input: Null
+User Output: Null
+Error: str was NULLincorrect input (non-alphabetical) or not enough memUser Input: ds[A
+User Output: ds[A
+Error: str was NULLincorrect input (non-alphabetical) or not enough memUser Input: qa
+User Output: qa
+Error: str was NULLincorrect input (non-alphabetical) or not enough memUser Input: 1
+User Output: 1
+Error: str was NULLincorrect input (non-alphabetical) or not enough memUser Input: a
+User Output: a
+Error: str was NULLincorrect input (non-alphabetical) or not enough memUser Input: as
+User Output: as
+Error: str was NULLincorrect input (non-alphabetical) or not enough memUser Input: [A[A[A[A[A:q
+User Output: [A[A[A[A[A:q
+Error: str was NULLincorrect input (non-alphabetical) or not enough memUser Input: Mars
+User Output: Mars
+Error: str was NULLincorrect input (non-alphabetical) or not enough memUser Input: 12
+User Output: 12
+User Input: Mars
+User Output: Mars
+User Input: 12
+User Output: 12
+Error: str was NULLincorrect input (non-alphabetical) or not enough memUser Input: mar
+User Output: mar
+User Input: Mars
+User Output: Mars
+User Input: 12
+User Output: 12
+Error: str was NULL
+incorrect input (non-alphabetical) or not enough memUser Input: Mars
+User Output: Mars
+User Input: 123
+User Output: 123
+Error: str was NULL
+incorrect input (non-alphabetical) or not enough memUser Input: Asd
+User Output: Asd
+User Input: ad
+User Output: ad
+User Input: fd
+User Output: fd
+User Input: Ma
+User Output: Ma
+User Input: 2423
+User Output: 2423
+Error: str was NULL
+incorrect input (non-alphabetical) or not enough memUser Input: 42
+User Output: 42
+Error: str was NULL
+incorrect input (non-alphabetical) or not enough memUser Input: as
+User Output: as
+User Input: 123
+User Output: 123
+Error: str was NULL
+incorrect input (non-alphabetical) or not enough mem
+User Input: 42
+User Output: 42
+Error: str was NULL
+incorrect input (non-alphabetical) or not enough mem
+User Input: ad
+User Output: ad
+User Input: 42
+User Output: 42
+Error: str was NULL
+incorrect input (non-alphabetical) or not enough mem
+User Input: d
+User Output: d
+User Input: sdt
+User Output: sdt
+User Input: as
+User Output: as
+User Input: 132
+User Output: 132
+Error: str was NULL
+incorrect input (non-alphabetical) or not enough mem
+User Input: 123
+User Output: 123
+Error: str was NULL
+incorrect input (non-alphabetical) or not enough mem
+User Input: 123
+User Output: 123
+Error 1Error: str was NULL
+incorrect input (non-alphabetical) or not enough mem
+User Input: 123
+User Output: 123
+[Error 1]
+Error: str was NULL
+incorrect input (non-alphabetical) or not enough mem
