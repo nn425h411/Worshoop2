@@ -6,16 +6,12 @@
 /*   By: mmorriga <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/02/24 13:16:07 by mmorriga          #+#    #+#             */
-/*   Updated: 2022/02/24 15:42:01 by mmorriga         ###   ########.fr       */
+/*   Updated: 2022/03/15 12:29:08 by mmorriga         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 #include <stdio.h>
 #include <strings.h>
-#include <stdlib.h>
-
-char	*ft_strjoin(char const *s1, char const *s2);
-
-int		ft_isalpha(int c);
+#include "libft.h"
 
 int	main(void)
 {
