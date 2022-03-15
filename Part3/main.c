@@ -6,7 +6,7 @@
 /*   By: mmorriga <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/02/24 13:16:07 by mmorriga          #+#    #+#             */
-/*   Updated: 2022/03/15 14:59:48 by mmorriga         ###   ########.fr       */
+/*   Updated: 2022/03/15 15:20:15 by mmorriga         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 #include <stdio.h>
@@ -74,9 +74,9 @@ static char	*toggle(int toggle, FILE *file)
 	return (error_handle(2, file, res), NULL);
 }
 
-/* Sorts names into groups e.g., a name that starts with a will be 1
- * but a name that starts with U will be 5
- * Outputs an error if it's not abble to assign a group */
+/* Sorts names into groups e.g., a name that starts with A will be 1
+ * but a name that starts with U will be 5 .
+ * Outputs an error if it's not able to assign a group */
 static int	grouper(const char *str, FILE *file)
 {
 	if (str[0] >= 'A' && str[0] <= 'E')
@@ -94,7 +94,7 @@ static int	grouper(const char *str, FILE *file)
 }
 
 /* The main that calls other functions to then output:
- * "Welcome to FDS or Fancy Development Services - (First name)" */
+ * "Welcome to FDS or Fancy Development Services - (First name) - (Group)" */
 int	main(void)
 {
 	char	*str;
