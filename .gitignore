@@ -1,0 +1,4 @@
+# ignore DS_store
+*.DS_Store
+# ignore .swps
+*.swp
