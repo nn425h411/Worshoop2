@@ -6,7 +6,7 @@
 /*   By: mmorriga <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/02/24 13:16:07 by mmorriga          #+#    #+#             */
-/*   Updated: 2022/03/18 13:20:43 by mmorriga         ###   ########.fr       */
+/*   Updated: 2022/03/21 09:00:01 by mmorriga         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 #include <stdio.h>
@@ -83,7 +83,7 @@ static int	groupfile(FILE *f, FILE *group, int d)
 	int		close;
 	char	c;
 
-	amount = 1;
+	amount = 0;
 	close = 0;
 	if (d == 6)
 	{
@@ -143,7 +143,7 @@ static int	grouper(int vl, FILE *file, const char *name, const char *welcome)
  * "Welcome to FDS or Fancy Development Services - (First name)"
  * then closes the logging file at the end.
  * To enable the counting feature of the Student Data logger,
- * change the value to = 6 . */
+ * change the value to = 6 and recompile. */
 int	main(void)
 {
 	char	*str;
@@ -163,7 +163,7 @@ int	main(void)
 	if (value >= 1 && value < 6)
 		return (value);
 	name[0] = ft_toupper(name[0]);
-	str = ft_strjoin(welcome, toggle(0, file));
+	str = ft_strjoin(welcome, toggle(1, file));
 	value = grouper(value, file, name, str);
 	fprintf(file, "Output: %s - %s - Group %d\n", str, name, value);
 	printf("%s - %s - Group %d", str, name, value);
